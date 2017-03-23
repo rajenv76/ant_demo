@@ -1,4 +1,4 @@
-<project name="ant_demo" default="clean">
+<project name="ant_demo" default="run">
 
     <target name="clean">
         <delete dir="build"/>
